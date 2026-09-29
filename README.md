@@ -19,4 +19,4 @@ Related to AI Lab
    - Using `with open()` to close files safely
 
 ### Files
-- `Untitled1.ipynb` (functions and file handling practice)
+- `lab2.ipynb` (functions and file handling practice)
